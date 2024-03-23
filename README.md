@@ -1,6 +1,6 @@
 # Welcome to Anton Devs 👋
 
-![Anton Devs Logo](https://cdn.discordapp.com/attachments/1196578143910252574/1220907452292272248/anton_white_logo.png?ex=6610a5ab&is=65fe30ab&hm=2adb4760bf0a9bfb711e8f2db20d24cc435ada23c65abb952081d8ca48ebf64a&)
+![Anton Devs Logo](https://github.com/antondevelopers/antondevelopers/assets/164578806/66327279-c37f-406f-a6be-b81aa60ec94e)
 
 Anton Devs is your go-to destination for cutting-edge technology services, offering a wide range of solutions to cater to your needs. From dynamic landing pages to robust full-stack web applications, efficient Python scripts for spreadsheet automation, and powerful web scraping tools, we've got you covered.
 
